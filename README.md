@@ -17,8 +17,11 @@ Two-class image classification with limited no. of samples (less than 100 sample
 
 ### Unsupervised Clustering
 Images were cluserted using autoencoders. Both full connected and Convolutional autoencoders were used to perform dimensionality reduction and then clustering techniques were applied.
+### Crater detection and Segmentation
+Training CNN models to perform crater detection and segmentation using a novel method and architecture to beat the SOTA results. Further details cannot be stated as paper is under preparation.
 
 # Machine Learning
+## Obect detection and Counting
 Faster RCNN model was trained on custom dataset to perform object detection and counting. The model was trained to detect Cars, Trucks and Humans. This was done as part of the project for [ML course in IIT Gandhinagar](https://nipunbatra.github.io/ml2019/). The results obtained for some test images are shown below.
 ![results1](https://github.com/VishalPrasadIITGn/objectDetectionAndCounting/blob/main/Screenshot%20(193).png)
 ![results2](https://github.com/VishalPrasadIITGn/objectDetectionAndCounting/blob/main/Screenshot%20(190).png)
